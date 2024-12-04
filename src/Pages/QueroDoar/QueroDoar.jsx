@@ -16,6 +16,7 @@ return(
             <input type="text" placeholder='Categoria' />
             <input type="text" placeholder='Autor' />
             <input type="text" placeholder='Link da Imagem' />
+            <input className={S.doar} type="submit" value="Doar" />
         </form>
        </section>
     </section>
